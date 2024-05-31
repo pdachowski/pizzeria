@@ -25,6 +25,12 @@
 
 ---
 
+## Pizze wegetariańskie 
+
+<img src = "images/vegetables.jpg" width = 300>
+
+---
+
 ## Pizza calzone - zwinięta w pieróg
 
 <img src = "images/Pizza_7.jpg" width = 300>
