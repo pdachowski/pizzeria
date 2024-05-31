@@ -32,6 +32,8 @@
 |Lp.| Pizza:                                                                           | rozmiar:           | 30 cm | 50 cm | 60 cm |
 |---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
 |1. |MARGHERITA (sos pomidorowy, ser, oregano)                                         |                    | 20 zł | 40 zł | 50 zł |
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)                                           |                    | 22 zł | 42 zł | 52 zł |
+|3. |HAWAJSKA VEGE (sos pomidorowy, ser, ananas)                                       |                    | 25 zł | 45 zł | 55 zł |
 
 ---
 
