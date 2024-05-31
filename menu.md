@@ -39,7 +39,7 @@
 
 ---
 
-## Pizza calzone
+## Pizza calzone + 4zł
 
 <img src = "images/Pizza_7.jpg" width = 300>
 
