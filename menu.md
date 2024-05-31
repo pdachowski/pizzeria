@@ -5,7 +5,7 @@
 
 ---
 
-## Pizze klasyczne
+## Pizze klasyczne + 2zł
 
 <img src = "images/Pizza_1.jpg" width = 200>
 <img src = "images/Pizza_3.jpg" width = 200>
