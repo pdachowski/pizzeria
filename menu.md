@@ -17,7 +17,7 @@
 |3. |SALAMI (sos pomidorowy, ser mozarella, salami)                                    |                    | 23 zł | 43 zł | 53 zł |
 |4. |VESUVIO (sos pomidorowy, podwójny ser , szynka)                                   |                    | 24 zł | 44 zł | 54 zł |
 |5. |HAWAJSKA (sos pomidorowy, ser, szynka, ananas)                                    |                    | 25 zł | 45 zł | 55 zł |
-|6. |MILANO (sos pomidorowy, ser, szynka, papryka, oregano)                            |                    | 26 zł | 46 zł | 56 zł |
+|6. |MILANO (sos pomidorowy, ser, szynka, papryka, oregano)                            |                    | 26 zł | 46 zł | 55 zł |
 |7. |KEBAB (sos pomidorowy, ser, kebab, sos czosnkowy)                                 |                    | 26 zł | 46 zł | 55 zł |
 |8. |QUATTRO FROMAGGI (sos pomidorowy, 4 sery, oregano)                                |                    | 27 zł | 47 zł | 56 zł |
 |9. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 28 zł | 48 zł | 57 zł |
