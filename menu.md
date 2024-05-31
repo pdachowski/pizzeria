@@ -14,7 +14,7 @@
 |---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
 |1. |MARGHERITA (sos pomidorowy, ser, oregano)                                         |                    | 20 zł | 40 zł | 50 zł |
 |2. |FUNGHI (sos pomidorowy, ser, pieczarki)                                           |                    | 22 zł | 42 zł | 52 zł |
-|3. |SALAMI (sos pomidorowy, ser mozarella, salami)                                    |                    | 23 zł | 43 zł | 53 zł |
+|3. |SALAMI (sos pomidorowy, ser mozarella, salami)                                    |                    | 23 zł | 43 zł | 52 zł |
 |4. |VESUVIO (sos pomidorowy, podwójny ser , szynka)                                   |                    | 24 zł | 44 zł | 53 zł |
 |5. |HAWAJSKA (sos pomidorowy, ser, szynka, ananas)                                    |                    | 25 zł | 45 zł | 54 zł |
 |6. |MILANO (sos pomidorowy, ser, szynka, papryka, oregano)                            |                    | 26 zł | 46 zł | 55 zł |
