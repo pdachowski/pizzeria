@@ -47,7 +47,7 @@
 |---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
 |1. |KEBAB (sos pomidorowy, ser, kebab, sos czosnkowy)                                 |                    | 26 zł | 46 zł | 56 zł |
 |2. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 28 zł | 48 zł | 58 zł |
-|3. |BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)    |                    | 30 zł | 50 zł | 60 zł |
+|3. |BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)    |                    | 30 zł | 50 zł | 59 zł |
 
 ---
 
