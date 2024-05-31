@@ -1,20 +1,20 @@
 # Menu
 
-<img src = "images/Pizza_7.jpg" width = 300>
+<img src = "images/Pizza_2.jpg" width = 200>
+<img src = "images/Pizza_5.jpg" width = 200>
 
 ---
 
 ## Pizze klasyczne
 
-<img src = "images/Pizza_1.jpg" width = 300>
-<img src = "images/Pizza_6.jpg" width = 300>
+<img src = "images/Pizza_1.jpg" width = 200>
+<img src = "images/Pizza_3.jpg" width = 200>
 
 ---
 
 ## Pizza calzone - zwinięta w pieróg
 
-<img src = "images/Pizza_2.jpg" width = 300>
-<img src = "images/Pizza_5.jpg" width = 300>
+<img src = "images/Pizza_7.jpg" width = 300>
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## Sosy
 
-<img src = "images/Pizza_3.jpg" width = 300>
+<img src = "images/Pizza_6.jpg" width = 300>
 
 ---
 
