@@ -58,7 +58,7 @@
 |Lp.| Nazwa:                                                               | porcja:            | 500 g | 650 g | 
 |---|----------------------------------------------------------------------|--------------------|-------|-------|
 |1. |SPAGHETTI NAPOLI (makaron z sosem pomidorowym i serem)                |                    | 30 zł | 49 zł | 
-|2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)                         |                    | 20 zł | 46 zł | 
+|2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)                         |                    | 20 zł | 45 zł | 
 |3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)                       |                    | 28 zł | 48 zł | 
 
 ---
