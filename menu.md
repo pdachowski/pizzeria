@@ -34,6 +34,12 @@
 
 <img src = "images/Pizza_6.jpg" width = 300>
 
+1. Czosnkowy - 5 zł
+2. Pomidorowy - 5zł
+3. Barbeque - 5 zł
+4. Sezamowy - 5 zł
+5. Majonezowy - 5 zł
+
 ---
 
 ## Dodatki
