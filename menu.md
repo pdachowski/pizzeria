@@ -25,7 +25,7 @@
 
 ---
 
-## Pizze wegetariańskie 
+## Pizze wegetariańskie + 3zł
 
 <img src = "images/vegetables.jpg" width = 300>
 
