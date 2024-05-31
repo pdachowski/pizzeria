@@ -45,7 +45,7 @@
 
 |Lp.| Nazwa:                                                                           | rozmiar:           | 30 cm | 50 cm | 60 cm |
 |---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
-|1. |KEBAB (sos pomidorowy, ser, kebab, sos czosnkowy)                                 |                    | 26 zł | 46 zł | 56 zł |
+|1. |KEBAB (sos pomidorowy, ser, kebab, sos czosnkowy)                                 |                    | 26 zł | 46 zł | 55 zł |
 |2. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 28 zł | 48 zł | 57 zł |
 |3. |BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)    |                    | 30 zł | 50 zł | 59 zł |
 
