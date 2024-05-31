@@ -40,6 +40,10 @@
 
 <img src = "images/Pizza_4.jpg" width = 300>
 
+1. Cukinia - 5 zł
+2. Korczochy - 6 zł
+3. Krewetki - 10 zł
+
 ---
 
 ## Napoje
