@@ -35,7 +35,7 @@
 |2. |FUNGHI (sos pomidorowy, ser, pieczarki)                                           |                    | 22 zł | 42 zł | 52 zł |
 |3. |HAWAJSKA VEGE (sos pomidorowy, ser, ananas)                                       |                    | 25 zł | 45 zł | 55 zł |
 |4. |MILANO VEGE (sos pomidorowy, ser, papryka, oregano)                               |                    | 26 zł | 46 zł | 56 zł |
-|5. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 26 zł | 46 zł | 56 zł |
+|5. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 26 zł | 46 zł | 55 zł |
 
 ---
 
