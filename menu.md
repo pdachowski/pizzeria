@@ -63,7 +63,7 @@
 
 ---
 
-## Sałatki
+## Sałatki + 6zł
 
 <img src = "images/salad.jpg" width = 300>
 
