@@ -29,6 +29,10 @@
 
 <img src = "images/vegetables.jpg" width = 300>
 
+|Lp.| Pizza:                                                                           | rozmiar:           | 30 cm | 50 cm | 60 cm |
+|---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
+|1. |MARGHERITA (sos pomidorowy, ser, oregano)                                         |                    | 20 zł | 40 zł | 50 zł |
+
 ---
 
 ## Pizza calzone - zwinięta w pieróg
