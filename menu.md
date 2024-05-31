@@ -51,7 +51,7 @@
 
 ---
 
-## Makarony
+## Makarony + 5zł
 
 <img src = "images/pasta.jpg" width = 300>
 
