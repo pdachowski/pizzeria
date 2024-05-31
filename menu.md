@@ -73,7 +73,7 @@
 
 ---
 
-## Sosy
+## Sosy + 7zł
 
 <img src = "images/Pizza_6.jpg" width = 300>
 
@@ -85,7 +85,7 @@
 
 ---
 
-## Dodatki
+## Dodatki + 8zł
 
 <img src = "images/Pizza_4.jpg" width = 300>
 
