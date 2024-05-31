@@ -95,7 +95,7 @@
 
 ---
 
-## Napoje
+## Napoje + 9zł
 
 <img src = "images/juice.jpg" width = 300>
 
